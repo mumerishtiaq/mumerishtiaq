@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mumerishtiaq
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Big Data Science
-- 💞️ I’m looking to collaborate with company
+- 👋 Hi, I’m Mohammad Umer Ishtiaq
+- 👀 I’m interested in Machine Learning| Data Science
+- 🌱 I’m currently learning Big Data Science and Technology
+- 💞️ I’m looking for job
 - 📫 How to reach me (umerishtiaqwork@gmail.com)
 
 <!---
